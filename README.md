@@ -1,5 +1,5 @@
 # Evo
-RU:
+RU: 
 Requirements:
 Python 3.8.(5)
 PyGame 2.0.1 (SDL 2.0.14)
@@ -32,7 +32,7 @@ PyGame 2.0.1 (SDL 2.0.14)
 По любым вопросам можете писать мне на почту kirillzh470@gmail.com
 
 
-EN:
+EN: 
 Requirements:
 Python 3.8.(5)
 PyGame 2.0.1 (SDL 2.0.14)
@@ -54,8 +54,8 @@ By default, the parameters are set to the most appropriate values for a smoother
 When you start the program, the pygame window will appear, in which the simulation will be carried out.
 
 Scene analysis:
--green large squares - trees
--white/orange/blue dots - creatures (color depends on the mode of nutrition: orange - predators, blue - herbivores, white - with a different way of obtaining energy (photosynthesis / geothermal energy))
+- green large squares - trees
+- white/orange/blue dots - creatures (color depends on the mode of nutrition: orange - predators, blue - herbivores, white - with a different way of obtaining energy (photosynthesis / geothermal energy))
 
 If a creature runs out of life energy, it dies, so they will try to keep it at a sufficient level by all available means.
 Creatures can eat each other, or they can eat trees or get energy from light or heat, the choice is theirs.
